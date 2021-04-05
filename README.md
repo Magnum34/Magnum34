@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Mariusz Milewczyk. I'm backend developer  PHP and Python, passionate about open source, also in Linux and system administration.
+
 <!--
 **Magnum34/Magnum34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
